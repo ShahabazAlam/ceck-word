@@ -2,5 +2,5 @@ POST http://127.0.0.1:8000/check-word/
 content-type: application/json
 
 {
-    "paragraph": "This is a cat."
+    "paragraph": "How to talk to our elders."
 }
